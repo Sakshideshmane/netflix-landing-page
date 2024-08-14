@@ -1,2 +1,2 @@
-# netflix-landing-page
+# netflix-Home-page
 using htmal and css
